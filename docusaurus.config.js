@@ -72,7 +72,7 @@ const config = {
           {
             type: 'docsVersionDropdown',
             position: 'right',
-            dropdownItemsAfter: [{to: '/version', label: 'All versions'}],
+            
             dropdownActiveClassDisabled: true,
           },
           {
